@@ -2,7 +2,7 @@ from contextlib import suppress
 
 import pyparsing as pp
 from pyparsing import pyparsing_common as ppc
-from compiler.nodes import *
+from AST.nodes import *
 
 
 def _make_parser():

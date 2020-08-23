@@ -1,7 +1,7 @@
 import os
-import compiler.grammar as grammar
+import AST.grammar as grammar
 import compiler.compiler_utils as compiler_utils
-from compiler.semantic import *
+from Semantic.semantic import *
 
 
 def main():

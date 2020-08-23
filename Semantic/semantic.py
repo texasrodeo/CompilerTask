@@ -1,5 +1,5 @@
-from compiler.grammar import *
-from compiler.symbols import *
+from AST.grammar import *
+from Semantic.symbols import *
 
 
 class NodeVisitor(object):
